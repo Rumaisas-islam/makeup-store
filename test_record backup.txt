@@ -1,0 +1,5 @@
+Product:Blush
+Price:800
+Company:Revlon
+Use:Makeup
+---------------------------

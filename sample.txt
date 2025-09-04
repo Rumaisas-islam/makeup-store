@@ -1,0 +1,10 @@
+Product:Lipstick
+Price:1200
+Company:Maybelline
+Use:Makeup
+---------------------------
+Product:Foundation
+Price:2500
+Company:L'Oreal
+Use:Makeup
+---------------------------
