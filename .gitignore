@@ -10,7 +10,7 @@ venv/
 .venv/
 
 # Ignore backup & record files
-backup.txt
+record backup.txt
 record.txt
 
 # Ignore system files
