@@ -16,3 +16,7 @@ record.txt
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+#Ignore test files
+test_record.txt
+test_record backup.txt
